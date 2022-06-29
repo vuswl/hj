@@ -1,3 +1,3 @@
-boonsoo = 99 / 0
+boonsoo = 99 / 1
 
 print(boonsoo)
